@@ -1,0 +1,393 @@
+[
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c40",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff3",
+
+        "location": {
+
+            "lat": 51.980469,
+
+            "lng": 9.2790342
+
+        },
+
+        "lastSeen": 1697276720180,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "H1 - Hartbach Feld",
+
+        "description": "H1_A81758FFFE0B6A2C",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3c",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff5",
+
+        "location": {
+
+            "lat": 52.08128,
+
+            "lng": 9.499601
+
+        },
+
+        "lastSeen": 1697276691462,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "R2 - Remte Bisperode",
+
+        "description": "R2_A81758FFFE0A0DBF ",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3d",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff6",
+
+        "location": {
+
+            "lat": 52.108476,
+
+            "lng": 9.476939
+
+        },
+
+        "lastSeen": 1697276359591,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "R3 - Remte Behrensen",
+
+        "description": "R3_A81758FFFE0A0DC0",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64c109104fddbd508bdf1c5a",
+
+        "groupId": "64c116ec4fddbd508bdf1c67",
+
+        "mapping": "64c108ee2886c44ab1448005",
+
+        "location": {
+
+            "lat": 52.131079,
+
+            "lng": 9.573947
+
+        },
+
+        "lastSeen": 1697276705152,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "N2 - Dörpe",
+
+        "description": "N2_0004A30B00F72DEC",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64c109104fddbd508bdf1c5b",
+
+        "groupId": "64c116ec4fddbd508bdf1c67",
+
+        "mapping": "64c108ee2886c44ab1448004",
+
+        "location": {
+
+            "lat": 52.133765,
+
+            "lng": 9.499561
+
+        },
+
+        "lastSeen": 1697276452114,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "N1 - Am Windrad bei Bäntorf",
+
+        "description": "N1_0004A30B00F7C15D",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c41",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff7",
+
+        "location": {
+
+            "lat": 51.980469,
+
+            "lng": 9.2790342
+
+        },
+
+        "lastSeen": 1697276444537,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "R4 - Behrensen Feld",
+
+        "description": "R4_A81758FFFE0B6A2A",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3f",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff2",
+
+        "location": {
+
+            "lat": 52.132706,
+
+            "lng": 9.565549
+
+        },
+
+        "lastSeen": null,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "D2 - Gelbbach Dörpe Schacht",
+
+        "description": "D2_A81758FFFE0A8F72",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64c109104fddbd508bdf1c59",
+
+        "groupId": "64c116ec4fddbd508bdf1c67",
+
+        "mapping": "64c108ee2886c44ab1448006",
+
+        "location": {
+
+            "lat": 52.075238,
+
+            "lng": 9.477939
+
+        },
+
+        "lastSeen": null,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "N3 - Am Flugplatz",
+
+        "description": "N3_0004A30B00F789B2",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3e",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff1",
+
+        "location": {
+
+            "lat": 52.131093,
+
+            "lng": 9.573915
+
+        },
+
+        "lastSeen": 1697276616254,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "D1 - Gelbbach Dörpe Feld",
+
+        "description": "D1_A81758fffe0A0DBC ",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64c109104fddbd508bdf1c58",
+
+        "groupId": "64c116ec4fddbd508bdf1c67",
+
+        "mapping": "64c108ee2886c44ab1448007",
+
+        "location": {
+
+            "lat": 52.113488,
+
+            "lng": 9.478838
+
+        },
+
+        "lastSeen": 1697276565318,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "N4 - Behrensen",
+
+        "description": "N4_0004A30B00F76DD3",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3b",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff4",
+
+        "location": {
+
+            "lat": 52.07126,
+
+            "lng": 9.50996
+
+        },
+
+        "lastSeen": 1697276591639,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "R1 - Remte Feld",
+
+        "description": "R1_A81758FFFE0A8F73 ",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64bfa8544fddbd508bdf1c3a",
+
+        "groupId": "64c116da4fddbd508bdf1c65",
+
+        "mapping": "64bfa2252886c44ab1447ff8",
+
+        "location": {
+
+            "lat": 52.109369,
+
+            "lng": 9.479745
+
+        },
+
+        "lastSeen": 1697276504170,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "H2 - Hartbach Behrensen",
+
+        "description": "H2_A81758FFFE0B6A2B",
+
+        "state": "OK",
+
+        "details": null
+
+    },
+
+    {
+
+        "id": "64c109104fddbd508bdf1c5c",
+
+        "groupId": "64c116ec4fddbd508bdf1c67",
+
+        "mapping": "64c108ee2886c44ab1448008",
+
+        "location": {
+
+            "lat": 52.062171,
+
+            "lng": 9.526206
+
+        },
+
+        "lastSeen": 1696772399836,
+
+        "serviceId": "64bfa1a82886c44ab1447fef",
+
+        "name": "N5 - Haus Harderode",
+
+        "description": "N5_0004A30B00F7C71E",
+
+        "state": "OK",
+
+        "details": null
+
+    }
+
+]
